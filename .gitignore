@@ -19,9 +19,6 @@ Thumbs.db
 build/
 dist/
 
-# Uploads (optional – keep if you don't want media in GitHub)
-uploads/
-
 # Coverage
 coverage/
 
